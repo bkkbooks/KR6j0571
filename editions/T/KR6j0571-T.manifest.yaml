@@ -1,0 +1,266 @@
+canonical_identifier: bkk:krp/KR6j0571/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0571/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大威德陀羅尼經
+  identifiers:
+    krp: KR6j0571
+    cbeta: T21n1341
+    cbeta_old_id: T21n1341
+    authorityid: CA0000691
+    json_key: T1341
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1341.xml
+    old_id: T21n1341
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0571_000-T.yaml, hash: 'sha256:e843ab8f79c33d0e5940185d4d10771f98301f582c49889824fc0ce8f70f183e'}
+  - {seq: 1, filename: KR6j0571_001-T.yaml, hash: 'sha256:249d467ba1cf0ce1922cb5beb40c0d3e771067d6de9d4d7bae7e1faf06bdc2b6'}
+  - {seq: 2, filename: KR6j0571_002-T.yaml, hash: 'sha256:1cf8d23390cc14f30e044b7bd9554278148d6f678efe3759c4224415bdbc2465'}
+  - {seq: 3, filename: KR6j0571_003-T.yaml, hash: 'sha256:2f5cf114690a452e7ed0d7458e1b1fe2eb43c5752f0adee3f200bcbb5e9f636b'}
+  - {seq: 4, filename: KR6j0571_004-T.yaml, hash: 'sha256:3826c8a39c7ffdbffa8056c39efd1f684ed75d1aa6c27df46abc6a76c96ae879'}
+  - {seq: 5, filename: KR6j0571_005-T.yaml, hash: 'sha256:2e79a847abf1442de2a6d94dc6f3078ce5d3063244f1575771a7832f6ea538a0'}
+  - {seq: 6, filename: KR6j0571_006-T.yaml, hash: 'sha256:be969f0766269184c215bc9fad2294d0b14f90452006b750b6f5020f57a1b09a'}
+  - {seq: 7, filename: KR6j0571_007-T.yaml, hash: 'sha256:6735835c75dde1a8e83de6309dfa658965417e372a03c955382898308d7d6966'}
+  - {seq: 8, filename: KR6j0571_008-T.yaml, hash: 'sha256:d4c7057f5e048a43fd51837ed72da7b96e71d09f5127d68bd6b43079a285950d'}
+  - {seq: 9, filename: KR6j0571_009-T.yaml, hash: 'sha256:60500b907957650fa04e77d476a8a8bcdb79ebdf7232244b4dbbdd786fa0bb57'}
+  - {seq: 10, filename: KR6j0571_010-T.yaml, hash: 'sha256:6ce04a0f98f1621265871320eec248847c86ca84000d9bb5efa464eaedc4345c'}
+  - {seq: 11, filename: KR6j0571_011-T.yaml, hash: 'sha256:8583542c2ce1bb8731e77c2e4e42f1d930b7372bc5b5c364eb87be5617fc43bf'}
+  - {seq: 12, filename: KR6j0571_012-T.yaml, hash: 'sha256:170740e552f631a5a071579e953ced8dc90ed796ad82ffd36d59435530ec5d88'}
+  - {seq: 13, filename: KR6j0571_013-T.yaml, hash: 'sha256:122ec74a70d22520b7319872f1d9856dccd75c11a7749c65f1c8aa0ff857f9da'}
+  - {seq: 14, filename: KR6j0571_014-T.yaml, hash: 'sha256:364c118bd4e88c238e405c7cf78e0f1a61b17585deb1c29591d25983bc8a8f9b'}
+  - {seq: 15, filename: KR6j0571_015-T.yaml, hash: 'sha256:a2af6708f0fc7a52126f4ea4d809832dc6b70b9f861e5aced967e7338a14b22b'}
+  - {seq: 16, filename: KR6j0571_016-T.yaml, hash: 'sha256:f8fb036284ceb9745b898ee28a12b72f15a46286c75d0b3da1d4c44f3e56ab40'}
+  - {seq: 17, filename: KR6j0571_017-T.yaml, hash: 'sha256:ee9815c2cee8fa9e4df4425d0c4d72d53189152fe9cd46bf182b496c2db9db9d'}
+  - {seq: 18, filename: KR6j0571_018-T.yaml, hash: 'sha256:b3db2d3421252df5c5f8b5bdf3a7c109e39ed36e889045fc50900182ccb4a846'}
+  - {seq: 19, filename: KR6j0571_019-T.yaml, hash: 'sha256:c6a03b4268e0dcb01e735f9fac9ed558ed7ef91b992c46a3a7e74d430360adfe'}
+  - {seq: 20, filename: KR6j0571_020-T.yaml, hash: 'sha256:354b83775744def127e37071127b62d1bd953470791a9861ead94532f24ffa72'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0571_000-T.markers.yaml, hash: 'sha256:36b4088c9b8efe19567ee9f4fa51c1d2d9dc2a83d3f76362e5480396322d00d1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0571_001-T.markers.yaml, hash: 'sha256:d4b7ce813b5f5d6a726009d49605693b9acc679ba766cab383a18a8856c1287a'}
+  - {seq: 2, role: markers, filename: assets/KR6j0571_002-T.markers.yaml, hash: 'sha256:72ab3833a0ea401b015078ba4f29731f9dd234de5c336e6578a7521ef9bdf3d3'}
+  - {seq: 3, role: markers, filename: assets/KR6j0571_003-T.markers.yaml, hash: 'sha256:ec9cbca1b1256ecd0d0d237bada2ec67a6be219b970501d15d12a52448b10b1c'}
+  - {seq: 4, role: markers, filename: assets/KR6j0571_004-T.markers.yaml, hash: 'sha256:f4dd9964d89c42671eddc47661e1b7cd4961fd537776e63f4317dd6810ce8333'}
+  - {seq: 5, role: markers, filename: assets/KR6j0571_005-T.markers.yaml, hash: 'sha256:65c80048379b8731d8e9d56ac0f94c0e0fa71f85087449794a7c8b2744ee8a29'}
+  - {seq: 6, role: markers, filename: assets/KR6j0571_006-T.markers.yaml, hash: 'sha256:75662bfeb478fe830551296b44b5b3360b47b364dc83251f5beeecb7f024e012'}
+  - {seq: 7, role: markers, filename: assets/KR6j0571_007-T.markers.yaml, hash: 'sha256:6bd815e80ba16d24deab11cf278af166177ed12dc2c9d510d22eb55136a85192'}
+  - {seq: 8, role: markers, filename: assets/KR6j0571_008-T.markers.yaml, hash: 'sha256:55a306c8b4698660c72b471598ddf835a0482162f1f7c45ec6c68b2c7644e3e4'}
+  - {seq: 9, role: markers, filename: assets/KR6j0571_009-T.markers.yaml, hash: 'sha256:31ed70ba327e9825515e491829da109c846c041f9ec4588378441d6cb47877c9'}
+  - {seq: 10, role: markers, filename: assets/KR6j0571_010-T.markers.yaml, hash: 'sha256:0754a570cb50ed6f0dcb86e4036c4364a9a132836812ccaa1b534f5571ac433c'}
+  - {seq: 11, role: markers, filename: assets/KR6j0571_011-T.markers.yaml, hash: 'sha256:de17b0d10ad84c4a73f006018763fea8567c7143775bfe7e90638cdd318d4752'}
+  - {seq: 12, role: markers, filename: assets/KR6j0571_012-T.markers.yaml, hash: 'sha256:7ef6b87cd163a046a0b05f9f3f39bda5dcca2977eeafcfc960e70d94f558696c'}
+  - {seq: 13, role: markers, filename: assets/KR6j0571_013-T.markers.yaml, hash: 'sha256:31e0dc75e8d5ba17e3d6d522d3d90a3a12bfa514a8bd5a4cf5e2a8c124af55e8'}
+  - {seq: 14, role: markers, filename: assets/KR6j0571_014-T.markers.yaml, hash: 'sha256:78912230ea1a8375d2b06baea69604704f391c28805da192f2b9f6e67c597fdf'}
+  - {seq: 15, role: markers, filename: assets/KR6j0571_015-T.markers.yaml, hash: 'sha256:ff8d4dac41d4def0a7b569a3cd07817eac67d4ec4683918cd19edfb5de65850b'}
+  - {seq: 16, role: markers, filename: assets/KR6j0571_016-T.markers.yaml, hash: 'sha256:d2efc72907b6843d681729c28d2d8e3d7f03cc14f9369d32e5bc392b1728ec7a'}
+  - {seq: 17, role: markers, filename: assets/KR6j0571_017-T.markers.yaml, hash: 'sha256:331dba69374eca5800f2c45fd94caa3dee071af5fd9fd93c42dc5624007fc2fb'}
+  - {seq: 18, role: markers, filename: assets/KR6j0571_018-T.markers.yaml, hash: 'sha256:b2bb443fe0a898366b14fe43f54307105a0bedf1c8f1f9b37a05174aab0cdac6'}
+  - {seq: 19, role: markers, filename: assets/KR6j0571_019-T.markers.yaml, hash: 'sha256:d4ec6b8908e5533af6dd55650a585dad557eb2d9deafccfb32ba53b61ad539b2'}
+  - {seq: 20, role: markers, filename: assets/KR6j0571_020-T.markers.yaml, hash: 'sha256:54ca551fe31dd562bbc7242a1bc03799fca25f57ab8a7e2b37b588771d7ea2f5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0571_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7607
+  label: 大威德陀羅尼經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0571_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5432
+  label: 大威德陀羅尼經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0571_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5922
+  label: 大威德陀羅尼經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0571_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7963
+  label: 大威德陀羅尼經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0571_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7526
+  label: 大威德陀羅尼經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0571_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8497
+  label: 大威德陀羅尼經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0571_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6465
+  label: 大威德陀羅尼經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0571_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6730
+  label: 大威德陀羅尼經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0571_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5392
+  label: 大威德陀羅尼經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0571_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 4873
+  label: 大威德陀羅尼經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0571_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 5817
+  label: 大威德陀羅尼經卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0571_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 4183
+  label: 大威德陀羅尼經卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0571_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 4841
+  label: 大威德陀羅尼經卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0571_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 5250
+  label: 大威德陀羅尼經卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0571_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 5129
+  label: 大威德陀羅尼經卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0571_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 7332
+  label: 大威德陀羅尼經卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0571_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 6813
+  label: 大威德陀羅尼經卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6j0571_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 6446
+  label: 大威德陀羅尼經卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0571_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 4116
+  label: 大威德陀羅尼經卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0571_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 3468
+  label: 大威德陀羅尼經卷第二十
+  type: juan
+  level: 1
+hash: sha256:02b6a37a1b323fe7df8c54ece7455cb6b97ce65d8cc7a00bf1d3a9d0ff8a8ccd
